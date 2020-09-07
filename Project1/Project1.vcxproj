@@ -140,8 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="add_two_integer.c" />
+    <ClCompile Include="ASCII_value_character.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="integer_print.c" />
+    <ClCompile Include="product_numbers.c" />
+    <ClCompile Include="remainder_quotient.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

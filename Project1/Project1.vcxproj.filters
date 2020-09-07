@@ -24,5 +24,14 @@
     <ClCompile Include="add_two_integer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="product_numbers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ASCII_value_character.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="remainder_quotient.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
