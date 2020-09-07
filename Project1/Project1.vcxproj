@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="add_two_integer.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="integer_print.c" />
   </ItemGroup>

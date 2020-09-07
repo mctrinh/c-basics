@@ -21,5 +21,8 @@
     <ClCompile Include="integer_print.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="add_two_integer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
