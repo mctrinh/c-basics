@@ -1,0 +1,2 @@
+D:\scripts\C\C-practices\Project1\Debug\Project1.exe
+D:\scripts\C\C-practices\Project1\Debug\Project1.pdb
