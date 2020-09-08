@@ -33,5 +33,8 @@
     <ClCompile Include="remainder_quotient.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sizeof_operator_example.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

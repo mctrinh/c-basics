@@ -1,8 +1,2 @@
-﻿  ASCII_value_character.c
-D:\scripts\C\C-practices\Project1\ASCII_value_character.c(6,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
-D:\scripts\C\C-practices\Project1\ASCII_value_character.c(6,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-D:\scripts\C\C-practices\Project1\ASCII_value_character.c(6,10): message : the missing variadic argument 2 is required by format string '%c'
-D:\scripts\C\C-practices\Project1\ASCII_value_character.c(6,10): message : this argument is used as a buffer size
-  remainder_quotient.c
-  Generating Code...
+﻿  sizeof_operator_example.c
   Project1.vcxproj -> D:\scripts\C\C-practices\Project1\Debug\Project1.exe

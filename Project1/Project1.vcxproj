@@ -145,6 +145,7 @@
     <ClCompile Include="integer_print.c" />
     <ClCompile Include="product_numbers.c" />
     <ClCompile Include="remainder_quotient.c" />
+    <ClCompile Include="sizeof_operator_example.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
