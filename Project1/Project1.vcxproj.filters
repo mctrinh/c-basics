@@ -69,5 +69,17 @@
     <ClCompile Include="factorial.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="multiplication_table.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci_series.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hcf_gcd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lcm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

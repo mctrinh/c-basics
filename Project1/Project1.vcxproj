@@ -143,11 +143,15 @@
     <ClCompile Include="alphabet.c" />
     <ClCompile Include="ASCII_value_character.c" />
     <ClCompile Include="even_odd.c" />
+    <ClCompile Include="fibonacci_series.c" />
+    <ClCompile Include="hcf_gcd.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="integer_print.c" />
     <ClCompile Include="keyword_long.c" />
     <ClCompile Include="largest_number_three.c" />
+    <ClCompile Include="lcm.c" />
     <ClCompile Include="leap_year.c" />
+    <ClCompile Include="multiplication_table.c" />
     <ClCompile Include="negative_positive_zero.c" />
     <ClCompile Include="product_numbers.c" />
     <ClCompile Include="quadratic_roots.c" />

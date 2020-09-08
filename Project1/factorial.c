@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main()
+// 1st method: using if...else and for
+
+int factorial()
 {
 	int n, i;
 	unsigned long long fact = 1;	// the factorial of a number may be very large, the type of factorial variable is declared as unsigned long long
@@ -27,3 +29,7 @@ int main()
 	}
 	return 0;
 }
+
+
+// 2nd method: using while
+
