@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int sizeof_operator_example()
 {
 	int intType;
 	float floatType;

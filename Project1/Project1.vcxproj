@@ -141,11 +141,17 @@
   <ItemGroup>
     <ClCompile Include="add_two_integer.c" />
     <ClCompile Include="ASCII_value_character.c" />
+    <ClCompile Include="even_odd.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="integer_print.c" />
+    <ClCompile Include="keyword_long.c" />
+    <ClCompile Include="largest_number_three.c" />
     <ClCompile Include="product_numbers.c" />
+    <ClCompile Include="quadratic_roots.c" />
     <ClCompile Include="remainder_quotient.c" />
     <ClCompile Include="sizeof_operator_example.c" />
+    <ClCompile Include="swapping.c" />
+    <ClCompile Include="vowel_consonant.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

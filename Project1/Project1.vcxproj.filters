@@ -36,5 +36,23 @@
     <ClCompile Include="sizeof_operator_example.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="keyword_long.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="swapping.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="even_odd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vowel_consonant.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="largest_number_three.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quadratic_roots.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
