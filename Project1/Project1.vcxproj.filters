@@ -54,5 +54,20 @@
     <ClCompile Include="quadratic_roots.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="leap_year.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="negative_positive_zero.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alphabet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_natural_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
