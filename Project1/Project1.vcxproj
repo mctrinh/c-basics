@@ -142,6 +142,7 @@
     <ClCompile Include="add_two_integer.c" />
     <ClCompile Include="alphabet.c" />
     <ClCompile Include="ASCII_value_character.c" />
+    <ClCompile Include="digits_count.c" />
     <ClCompile Include="display_alphabets.c" />
     <ClCompile Include="even_odd.c" />
     <ClCompile Include="fibonacci_series.c" />

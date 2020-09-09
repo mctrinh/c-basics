@@ -84,5 +84,8 @@
     <ClCompile Include="display_alphabets.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="digits_count.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

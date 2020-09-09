@@ -12,7 +12,7 @@
 
 // print lowercase/uppercase alphabets
 
-int main()
+int display_alphabets()
 {
     char c;
     printf("Enter u to display uppercase alphabets.\n");
