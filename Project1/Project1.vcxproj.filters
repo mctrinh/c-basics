@@ -87,5 +87,89 @@
     <ClCompile Include="digits_count.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="reverse_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="power_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="palindrome_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_number_intervals.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="check_armstrong_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="armstrong_number_interval.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factors_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="calculator_switch_case.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_interval_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_armstrong_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_prime_numbers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="natural_number_sum_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hcf_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_decimal_convert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="octal_decimal_convert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="octal_binary_convert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_sentence_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="power_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="average_arrays.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_largest_element.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="standard_deviation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="add_matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix_multiplication.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix_transpose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix_multiplication_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="access_array_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
