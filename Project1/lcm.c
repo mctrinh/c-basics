@@ -28,7 +28,7 @@
 
 // 2nd way: lcm calculation using gcd
 
-int main() 
+int lcm() 
 {
     int n1, n2, i, gcd, lcm;
     printf("Enter two positive integers: ");

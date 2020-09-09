@@ -81,5 +81,8 @@
     <ClCompile Include="lcm.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="display_alphabets.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
