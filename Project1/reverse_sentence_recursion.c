@@ -1,6 +1,6 @@
 #include <stdio.h>
 void reverseSentence();
-int main() {
+int reverse_sentence_recursion() {
     printf("Enter a sentence: ");
     reverseSentence();
     return 0;

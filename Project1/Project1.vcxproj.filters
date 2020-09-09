@@ -144,5 +144,32 @@
     <ClCompile Include="reverse_sentence_recursion.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="power_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="average_arrays.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_largest_element.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="standard_deviation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="add_matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix_multiplication.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix_transpose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix_multiplication_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="access_array_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

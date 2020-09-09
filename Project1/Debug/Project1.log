@@ -1,9 +1,7 @@
-﻿  octal_binary_convert.c
-D:\scripts\C\C-practices\Project1\octal_binary_convert.c(55,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  reverse_sentence_recursion.c
-D:\scripts\C\C-practices\Project1\reverse_sentence_recursion.c(11,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
-D:\scripts\C\C-practices\Project1\reverse_sentence_recursion.c(11,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-D:\scripts\C\C-practices\Project1\reverse_sentence_recursion.c(11,13): message : the missing variadic argument 2 is required by format string '%c'
-D:\scripts\C\C-practices\Project1\reverse_sentence_recursion.c(11,13): message : this argument is used as a buffer size
+﻿  access_array_pointer.c
+  matrix_multiplication_function.c
+D:\scripts\C\C-practices\Project1\matrix_multiplication_function.c(12,117): warning C4101: 'k': unreferenced local variable
+D:\scripts\C\C-practices\Project1\matrix_multiplication_function.c(12,114): warning C4101: 'j': unreferenced local variable
+D:\scripts\C\C-practices\Project1\matrix_multiplication_function.c(12,111): warning C4101: 'i': unreferenced local variable
   Generating Code...
   Project1.vcxproj -> D:\scripts\C\C-practices\Project1\Debug\Project1.exe
