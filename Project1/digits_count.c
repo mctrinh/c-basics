@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() 
+int digits_count() 
 {
     long long n;
     int count = 0;

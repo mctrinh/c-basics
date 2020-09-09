@@ -92,6 +92,8 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EntryPointSymbol>
+      </EntryPointSymbol>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -139,28 +141,56 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="access_array_pointer.c" />
+    <ClCompile Include="add_matrix.c" />
     <ClCompile Include="add_two_integer.c" />
     <ClCompile Include="alphabet.c" />
+    <ClCompile Include="array_largest_element.c" />
     <ClCompile Include="ASCII_value_character.c" />
+    <ClCompile Include="average_arrays.c" />
+    <ClCompile Include="binary_decimal_convert.c" />
+    <ClCompile Include="calculator_switch_case.c" />
+    <ClCompile Include="check_armstrong_number.c" />
     <ClCompile Include="digits_count.c" />
     <ClCompile Include="display_alphabets.c" />
     <ClCompile Include="even_odd.c" />
+    <ClCompile Include="factorial_recursion.c" />
+    <ClCompile Include="factors_number.c" />
     <ClCompile Include="fibonacci_series.c" />
     <ClCompile Include="hcf_gcd.c" />
+    <ClCompile Include="hcf_recursion.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="integer_print.c" />
     <ClCompile Include="keyword_long.c" />
     <ClCompile Include="largest_number_three.c" />
     <ClCompile Include="lcm.c" />
     <ClCompile Include="leap_year.c" />
+    <ClCompile Include="matrix_multiplication.c" />
+    <ClCompile Include="matrix_multiplication_function.c" />
+    <ClCompile Include="matrix_transpose.c" />
     <ClCompile Include="multiplication_table.c" />
+    <ClCompile Include="natural_number_sum_recursion.c" />
     <ClCompile Include="negative_positive_zero.c" />
+    <ClCompile Include="octal_binary_convert.c" />
+    <ClCompile Include="octal_decimal_convert.c" />
+    <ClCompile Include="palindrome_number.c" />
+    <ClCompile Include="power_number.c" />
+    <ClCompile Include="power_recursion.c" />
+    <ClCompile Include="prime_armstrong_function.c" />
+    <ClCompile Include="prime_number.c" />
+    <ClCompile Include="prime_number_intervals.c" />
     <ClCompile Include="product_numbers.c" />
     <ClCompile Include="quadratic_roots.c" />
     <ClCompile Include="remainder_quotient.c" />
+    <ClCompile Include="reverse_number.c" />
+    <ClCompile Include="reverse_sentence_recursion.c" />
     <ClCompile Include="sizeof_operator_example.c" />
     <ClCompile Include="factorial.c" />
+    <ClCompile Include="armstrong_number_interval.c" />
+    <ClCompile Include="prime_interval_function.c" />
+    <ClCompile Include="standard_deviation.c" />
     <ClCompile Include="sum_natural_number.c" />
+    <ClCompile Include="sum_prime_numbers.c" />
     <ClCompile Include="swapping.c" />
     <ClCompile Include="vowel_consonant.c" />
   </ItemGroup>
