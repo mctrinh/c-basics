@@ -171,5 +171,62 @@
     <ClCompile Include="access_array_pointer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swapping_cyclic_order.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_memory_allocation_largest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frequency_character.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vowel_consonant_frequency_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_characters_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_length.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="concatenate_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_copy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lexicographical_order.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_store_information.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inch_feet_structure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="complex_number_add.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="time_structure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="information_structure_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_dynamic_memory_allocation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="write_file.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="read_file.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source_code_output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pyramid_pattern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

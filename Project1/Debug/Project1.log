@@ -1,7 +1,2 @@
-﻿  access_array_pointer.c
-  matrix_multiplication_function.c
-D:\scripts\C\C-practices\Project1\matrix_multiplication_function.c(12,117): warning C4101: 'k': unreferenced local variable
-D:\scripts\C\C-practices\Project1\matrix_multiplication_function.c(12,114): warning C4101: 'j': unreferenced local variable
-D:\scripts\C\C-practices\Project1\matrix_multiplication_function.c(12,111): warning C4101: 'i': unreferenced local variable
-  Generating Code...
+﻿  pyramid_pattern.c
   Project1.vcxproj -> D:\scripts\C\C-practices\Project1\Debug\Project1.exe
