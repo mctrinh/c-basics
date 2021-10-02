@@ -1,2 +1,2 @@
 # C-practices
-To horn C programming skills and master GitHub and Visual Studio Community/Code workflow.
+To practice C, and familiarize myself with GitHub and Visual Studio Community/Code workflow.
